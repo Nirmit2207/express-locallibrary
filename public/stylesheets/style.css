@@ -3,3 +3,7 @@
   padding: 0;
   list-style: none;
 }
+
+div.container-fluid a {
+  text-decoration: none;
+}
